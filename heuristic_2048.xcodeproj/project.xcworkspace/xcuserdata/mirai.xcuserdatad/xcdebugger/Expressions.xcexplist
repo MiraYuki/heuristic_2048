@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "en_2048::create_new_square():en_2048.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "emptyList[4]">
+            </PersistentString>
+            <PersistentString
+               value = "emptyPtr[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "en_2048::dealOperate():en_2048.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*operateSpace[i-j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
